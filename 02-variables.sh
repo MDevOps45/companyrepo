@@ -1,3 +1,5 @@
+#!/bin/bash
+
 p1=Manish
 p2=rahul
 
